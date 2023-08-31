@@ -1,0 +1,80 @@
+<div class="card rounded shadow-sm">
+  <form [formGroup]="form">
+    <div class="p-3">
+      <!-- <p>Form value: {{form.value | json}}</p>
+      <p>Form valid: {{form.status | json}}</p> -->
+      <div class="form-row">
+        <div class="form-group col-md-12">
+          <label>Nome</label>
+          <input type="text" class="form-control" [ngClass]="{'is-invalid': f.nome.errors && f.nome.touched }"
+            formControlName="nome" placeholder="Insira o Nome do Produto">
+          <div *ngIf="f.nome.errors?.required" class="invalid-feedback">
+            O nome do produto é obrigatório.
+          </div>
+          <div *ngIf="f.nome.errors?.minlength" class="invalid-feedback">
+            Nome do Produto deve ter no mínimo 3 caracteres.
+          </div>
+          <div *ngIf="f.nome.errors?.maxlength" class="invalid-feedback">
+            Nome do Produto deve ter no máximo 100 caracteres.
+          </div>
+          </div>
+          </div>
+      <div class="form-row">
+        <div class="form-group col-md-8">
+          <label>Preço</label>
+          <input type="number" class="form-control" [ngClass]="{'is-invalid': f.preco.errors && f.precoouched}"
+            formControlName="local" placeholder="">
+          <div *ngIf="f.preco.errors?.required && f.preco.touched" class="invalid-feedback">
+            Preço é obrigatório
+          </div>
+        </div>
+        <div class="form-group col-md-4">
+          <label>Data</label>
+          <input type="datetime" class="form-control" [ngClass]="{'is-invalid': f.dataEvento.errors && f.dataEvento.touched}"
+            formControlName="dataEvento" placeholder="">
+          <div *ngIf="f.dataEvento.errors?.required && f.dataEvento.touched" class="invalid-feedback">
+            Data e Hora é obrigatório.
+          </div>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group col-md-2">
+          <label>Quantidade</label>
+          <input type="number" class="form-control" [ngClass]="{'is-invalid': f.quantidade.errors && f.Quantidade.touched}"
+            formControlName="quantidade" placeholder="">
+          <div *ngIf="f.quantidade.errors?.required && f.quantidade.touched" class="invalid-feedback">
+            Quantidade é obrigatório.
+          </div>
+          <div *ngIf="f.quantidade.errors?.max && f.quantidade.touched" class="invalid-feedback">
+            Quantidade deve ser menor que 9999.
+          </div>
+          </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group col-md-2">
+          <label>Descrição</label>
+          <input type="text" class="form-control" [ngClass]="{'is-invalid': f.descricao.errors && f.descricao.touched}"
+            formControlName="quantidade" placeholder="">
+          <div *ngIf="f.descricao.errors?.required && f.descricao.touched" class="invalid-feedback">
+            Quantidade é obrigatório.
+          </div>
+          <div *ngIf="f.descricao.errors?.max && f.descricao.touched" class="invalid-feedback">
+            A descrição deve ter no máximo 200 caracteres
+          </div>
+          </div>
+      </div>
+    </div>
+    <div class="card-footer">
+      <div class="d-flex">
+        <button class="btn btn-outline-secondary mr-auto border" (click)="resetForm()">
+          Cancelar Alteração
+        </button>
+        <button class="btn btn-success" [disabled]="!form.valid">
+          <!-- <span class="spinner-border spinner-border-sm mr-1"></span> -->
+          Salvar Evento
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+

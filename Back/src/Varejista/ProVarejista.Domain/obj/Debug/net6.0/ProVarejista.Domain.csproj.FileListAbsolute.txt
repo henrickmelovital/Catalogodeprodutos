@@ -1,0 +1,11 @@
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\bin\Debug\net6.0\ProVarejista.Domain.deps.json
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\bin\Debug\net6.0\ProVarejista.Domain.dll
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\bin\Debug\net6.0\ProVarejista.Domain.pdb
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\obj\Debug\net6.0\ProVarejista.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\obj\Debug\net6.0\ProVarejista.Domain.AssemblyInfoInputs.cache
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\obj\Debug\net6.0\ProVarejista.Domain.AssemblyInfo.cs
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\obj\Debug\net6.0\ProVarejista.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\obj\Debug\net6.0\ProVarejista.Domain.dll
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\obj\Debug\net6.0\refint\ProVarejista.Domain.dll
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\obj\Debug\net6.0\ProVarejista.Domain.pdb
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Domain\obj\Debug\net6.0\ref\ProVarejista.Domain.dll

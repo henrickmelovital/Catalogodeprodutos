@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "522qSJ4DHED02fAc7wJtsTcAmiYe/1qA7AvqYfcbVpBnpoOzWdyKCCY/7LN8ilaJ+dzUwNnW964aacv6svH/0g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Developer-00\\Documents\\Varejista\\Back\\src\\Varejista\\ProVarejista.Application\\ProVarejista.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer-00\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Developer-00\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

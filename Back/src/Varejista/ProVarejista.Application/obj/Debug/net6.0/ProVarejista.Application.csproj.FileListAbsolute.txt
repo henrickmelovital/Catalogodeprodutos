@@ -1,0 +1,15 @@
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\bin\Debug\net6.0\ProVarejista.Application.deps.json
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\bin\Debug\net6.0\ProVarejista.Application.dll
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\bin\Debug\net6.0\ProVarejista.Application.pdb
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\bin\Debug\net6.0\ProVarejista.Domain.dll
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\bin\Debug\net6.0\ProVarejista.Domain.pdb
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ProVarejista.Application.csproj.AssemblyReference.cache
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ProVarejista.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ProVarejista.Application.AssemblyInfoInputs.cache
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ProVarejista.Application.AssemblyInfo.cs
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ProVarejista.Application.csproj.CoreCompileInputs.cache
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ProVarejista.Application.csproj.CopyComplete
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ProVarejista.Application.dll
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\refint\ProVarejista.Application.dll
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ProVarejista.Application.pdb
+C:\Users\Developer-00\Documents\Varejista\Back\src\Varejista\ProVarejista.Application\obj\Debug\net6.0\ref\ProVarejista.Application.dll
